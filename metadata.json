@@ -1,0 +1,6 @@
+{
+  "name": "KAIZEN Minimalist Luxury Hotel & 3D Sanctuary",
+  "description": "An ultra-minimalist, avant-garde architectural web experience for KAIZEN luxury sanctuary, featuring interactive titanium keycards, sensory soundscape, and monolithic suites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
